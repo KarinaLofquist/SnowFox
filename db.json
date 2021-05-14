@@ -21,5 +21,15 @@
 }
         ]
     }
+],
+    "header": [  
+    {
+        "website": "Snowfox",
+        "image": "Snowfox.png"
+    }
+],
+    "footer": [  
+    {
+    }
 ]
 }
