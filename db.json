@@ -1,8 +1,7 @@
-{
-    [
+
     {
-        "website": "Snowfox"}
-        ,
+        "website": "Snowfox"
+    } ,
         {
         "image": "Snowfox.png"
     },
@@ -10,5 +9,4 @@
     },
     { "articledescription1": "This is a fucking description"
     }
-]
-}
+
